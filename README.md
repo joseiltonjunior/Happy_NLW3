@@ -1,5 +1,5 @@
 <p align="center">
-  <img  width="100" height="80%" src="https://drive.google.com/file/d/1aIohTupxSwfENAc5qTXgA_dbaKPtZFdn/view?usp=sharing" alt="NLW3"></a>
+  <img  width="100" height="80%" src="https://i.ibb.co/DV59Nyd/screen03.png" alt="NLW3"></a>
 </p>
 
 <h3 align="center">Happy Web - NLW #3</h3>
@@ -17,15 +17,15 @@ $ yarn start
 ```
 
 ---
-
+<h2 align="center">Landing page</h2>
 <p align="center">
-  <img width="100%" height="100%" src="https://drive.google.com/file/d/1sI34V039pW6AQy201iMknFmbu73t9Hd7/view?usp=sharing" alt="landing"></a>
+  <img width="100%" height="100%" src="https://i.ibb.co/Fw90c6R/screen01.png" alt="landing"></a>
 </p>
 
 ---
-
+<h2 align="center">Map page</h2>
 <p align="center">
-  <img width="100%" height="100%" src="https://drive.google.com/file/d/1WvQhTRGHxO_Pwn_RAihug-taw1NvOWvT/view?usp=sharing" alt="map"></a>
+  <img width="100%" height="100%" src="https://i.ibb.co/kmQHMGm/screen02.png" alt="map"></a>
 </p>
 
 ## Credits
