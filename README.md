@@ -7,9 +7,9 @@
 ---
 
 ```sh
-$ git clone git@github.com:caioagiani/happy-nlw3.git
+$ git clone https://github.com/joseiltonjunior/Happy_NLW3.git
 
-$ cd happy-nlw3
+$ cd Happy_NLW3
 
 $ yarn install
 
