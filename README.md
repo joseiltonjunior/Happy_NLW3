@@ -1,3 +1,35 @@
-# **Front-end web do Projeto Happy NLW 3**
+<p align="center">
+  <img  width="100" height="80%" src="https://i.ibb.co/DV59Nyd/screen03.png" alt="NLW3"></a>
+</p>
 
-- lembrar de fazer um README decente!
+<h3 align="center">Happy Web - NLW #3</h3>
+
+---
+
+```sh
+$ git clone https://github.com/joseiltonjunior/Happy_NLW3.git
+
+$ cd Happy_NLW3
+
+$ yarn install
+
+$ yarn start
+```
+
+---
+<h2 align="center">Landing page</h2>
+<p align="center">
+  <img width="100%" height="100%" src="https://i.ibb.co/Fw90c6R/screen01.png" alt="landing"></a>
+</p>
+
+---
+<h2 align="center">Map page</h2>
+<p align="center">
+  <img width="100%" height="100%" src="https://i.ibb.co/kmQHMGm/screen02.png" alt="map"></a>
+</p>
+
+## Credits
+
+- @rocketseat
+- @diego3g
+- @dvlp.jr
